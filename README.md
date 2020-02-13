@@ -1,4 +1,4 @@
-# Sublime_Text_Shortcut
+# Sublime Text Shortcut
 
 ## Installation
 
